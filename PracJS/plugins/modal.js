@@ -19,7 +19,7 @@ modal.insertAdjacentHTML( 'afterbegin', `
     </div>
 </div>
 `)
-return
+
 
 }
 $.modal = function(options) {
@@ -31,3 +31,5 @@ return{
     destroy () {}
   }
 }
+
+
